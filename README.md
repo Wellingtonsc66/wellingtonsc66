@@ -1,4 +1,4 @@
-### Bem-vindo ao meu perfil!
+### Seja, bem-vindo!
 
 <div align="center">
   <a href="https://github.com/wellingtonsc66">
@@ -29,9 +29,9 @@
   </div>
    
 
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Formandodev/count.svg" /></p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/wellingtonsc66/count.svg" /></p>
 
 
-![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/wellingtonsc66/wellingtonsc66/blob/output/github-contribution-grid-snake.svg)
    
   

@@ -41,7 +41,7 @@
 ![snake gif](https://github.com/wellingtonsc66/wellingtonsc66/blob/output/github-contribution-grid-snake.svg)
   
   
-<sup>Apreciador da vida, céu azul e tecnologias.</sup>🧑🏾‍💻
+<sup>Apreciador da vida, do céu azul e tecnologias.</sup>🧑🏾‍💻
 
 
   

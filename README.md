@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://github.com/wellingtonsc66">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wellingtonsc66&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wellingtonsc66&hide_border=true&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonsc66&layout=compact&hide_border=true&langs_count=7&theme=tokyonight"/>
 </div>
   

@@ -1,4 +1,6 @@
-### Olá, Wellington aqui  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+<div>
+    <h3>Olá, Wellington aqui <img valign="bottom" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h3>
+</div>
 
 
 <div align="center">
